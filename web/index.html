@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Bağlamlı Türkçeleştirme: Yapay Zekâ Destekli Metin  Dönüşüm Sistemi
+</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 16px;
+      background: #f6f7fb;
+    }
+
+    h2 {
+      margin-bottom: 10px;
+    }
+
+    .card {
+      background: #ffffff;
+      border-radius: 10px;
+      padding: 14px;
+      margin-bottom: 12px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    textarea {
+      width: 100%;
+      min-height: 180px;
+      resize: vertical;
+      padding: 10px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      font-size: 14px;
+    }
+
+    button {
+      padding: 8px 14px;
+      border-radius: 6px;
+      border: none;
+      cursor: pointer;
+      font-weight: bold;
+    }
+
+    button.primary {
+      background: #4f46e5;
+      color: white;
+    }
+
+    button.secondary {
+      background: #e5e7eb;
+    }
+
+    select, input {
+      padding: 6px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+    }
+
+    .small {
+      font-size: 12px;
+      color: #555;
+    }
+
+    .item {
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 10px;
+      margin-bottom: 10px;
+      background: #fafafa;
+    }
+
+    .item b {
+      color: #1f2937;
+    }
+
+    .context {
+      font-size: 12px;
+      margin-top: 4px;
+      color: #444;
+    }
+
+    .badge {
+      background: #fde68a;
+      padding: 2px 6px;
+      border-radius: 6px;
+      font-size: 11px;
+      margin-left: 6px;
+    }
+  </style>
+</head>
+
+<body>
+
+<h2>📝 Bağlamlı Türkçeleştirme: Yapay Zekâ Destekli Metin  Dönüşüm Sistemi
+</h2>
+
+<div class="card">
+  <label>
+    Kullanıcı ID:
+    <input id="userId" value="TÜBİTAK 2204A "/>
+  </label>
+
+  <label style="margin-left:12px;">
+    Metin Türü:
+    <select id="contextTag">
+      <option value="akademik">Akademik</option>
+      <option value="kurumsal">Kurumsal</option>
+      <option value="egitsel">Eğitsel</option>
+    </select>
+  </label>
+
+  <label style="margin-left:12px;">
+    Seviye:
+    <select id="level">
+      <option value="light">Hafif</option>
+      <option value="balanced" selected>Dengeli</option>
+      <option value="strict">Sıkı</option>
+    </select>
+  </label>
+</div>
+
+<div class="grid">
+
+  <div class="card">
+    <h3>📄 Girdi Metni</h3>
+    <textarea id="inputText" placeholder="Metni buraya yapıştır..."></textarea>
+
+    <div style="margin-top:10px;">
+      <button class="primary" onclick="analyze()">Analiz Et</button>
+      <button class="secondary" onclick="apply()">Uygula</button>
+    </div>
+
+    <p class="small" id="report"></p>
+  </div>
+
+  <div class="card">
+    <h3>🔎 Bulunan Yabancı Kelimeler</h3>
+    <div id="items"></div>
+  </div>
+
+</div>
+
+<div class="card">
+  <h3>✅ Düzenlenmiş Metin</h3>
+  <textarea id="outputText" placeholder="Düzenlenmiş metin burada oluşacak..."></textarea>
+</div>
+
+<script>
+  let lastItems = [];
+
+  async function analyze() {
+    const user_id = document.getElementById("userId").value;
+    const context_tag = document.getElementById("contextTag").value;
+    const level = document.getElementById("level").value;
+    const text = document.getElementById("inputText").value;
+
+    const res = await fetch("http://127.0.0.1:8000/analyze", {
+      method: "POST",
+      headers: {"Content-Type": "application/json"},
+      body: JSON.stringify({user_id, context_tag, level, text})
+    });
+
+    const data = await res.json();
+    lastItems = data.items || [];
+
+    document.getElementById("report").innerText =
+      `Bulunan kelime: ${data.report.candidates_found} | Seviye: ${data.report.level}`;
+
+    renderItems();
+  }
+
+  function renderItems() {
+    const div = document.getElementById("items");
+    div.innerHTML = "";
+
+    if (lastItems.length === 0) {
+      div.innerHTML = "<p class='small'>Henüz yabancı kelime bulunmadı.</p>";
+      return;
+    }
+
+    lastItems.forEach(it => {
+      const options = it.suggestions.map(s =>
+        `<option value="${escapeHtml(s.suggestion)}">
+          ${escapeHtml(s.suggestion)} (puan: ${s.score})
+        </option>`
+      ).join("");
+
+      const el = document.createElement("div");
+      el.className = "item";
+
+      el.innerHTML = `
+        <b>${escapeHtml(it.original)}</b>
+        <span class="badge">${escapeHtml(it.foreign_norm)}</span>
+
+        <div class="context">${escapeHtml(it.context)}</div>
+
+        <div style="margin-top:8px;">
+          <label>Seç:
+            <select class="pick" data-id="${it.id}">
+              <option value="">(Geç)</option>
+              ${options}
+            </select>
+          </label>
+        </div>
+
+        <div class="small" style="margin-top:6px;">
+          Reddedilenler:
+          <input class="rej" data-id="${it.id}" placeholder="örn: geri bildirim, dönüt"/>
+        </div>
+      `;
+
+      div.appendChild(el);
+    });
+  }
+
+  async function apply() {
+    if (lastItems.length === 0) {
+      await analyze();
+    }
+
+    const user_id = document.getElementById("userId").value;
+    const context_tag = document.getElementById("contextTag").value;
+    const level = document.getElementById("level").value;
+    const text = document.getElementById("inputText").value;
+
+    const picks = document.querySelectorAll(".pick");
+    const rejs  = document.querySelectorAll(".rej");
+
+    const choices = lastItems.map(it => {
+      const pick = [...picks].find(p => p.dataset.id === it.id);
+      const rej  = [...rejs].find(r => r.dataset.id === it.id);
+
+      return {
+        candidate_id: it.id,
+        chosen: pick && pick.value ? pick.value : null,
+        rejected: rej && rej.value
+          ? rej.value.split(",").map(x => x.trim()).filter(Boolean)
+          : []
+      };
+    });
+
+    const res = await fetch("http://127.0.0.1:8000/apply", {
+      method: "POST",
+      headers: {"Content-Type": "application/json"},
+      body: JSON.stringify({user_id, context_tag, level, text, choices})
+    });
+
+    const data = await res.json();
+    document.getElementById("outputText").value = data.new_text || "";
+  }
+
+  function escapeHtml(str) {
+    return (str || "")
+      .replaceAll("&", "&amp;")
+      .replaceAll("<", "&lt;")
+      .replaceAll(">", "&gt;")
+      .replaceAll('"', "&quot;");
+  }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,3993 @@
+{
+  "optimize": [
+    "eniyilemek",
+    "iyileştirmek",
+    "en uygun hâle getirmek"
+  ],
+  "optimizasyon": [
+    "eniyileme",
+    "iyileştirme",
+    "en uygunlaştırma"
+  ],
+  "performans": [
+    "başarım",
+    "verim",
+    "çalışma başarısı"
+  ],
+  "platform": [
+    "ortam",
+    "altyapı",
+    "zemin"
+  ],
+  "implementasyon": [
+    "uygulama",
+    "gerçekleme",
+    "hayata geçirme"
+  ],
+  "validasyon": [
+    "doğrulama",
+    "geçerleme"
+  ],
+  "verifikasyon": [
+    "doğrulama",
+    "denetleyerek doğrulama"
+  ],
+  "entegrasyon": [
+    "bütünleşme",
+    "uyumlandırma",
+    "birleştirme"
+  ],
+  "entegre": [
+    "bütünleşik",
+    "uyumlu",
+    "birleşik"
+  ],
+  "konsept": [
+    "kavram",
+    "tasarım fikri",
+    "yaklaşım"
+  ],
+  "analiz": [
+    "çözümleme",
+    "inceleme",
+    "irdeleme"
+  ],
+  "feedback": [
+    "geri bildirim",
+    "dönüt"
+  ],
+  "update": [
+    "güncelleme",
+    "yenileme"
+  ],
+  "download": [
+    "indirme",
+    "yükü indirme"
+  ],
+  "upload": [
+    "yükleme",
+    "karşıya yükleme"
+  ],
+  "online": [
+    "çevrim içi",
+    "internete bağlı"
+  ],
+  "offline": [
+    "çevrim dışı",
+    "internetsiz"
+  ],
+  "prosedür": [
+    "yordam",
+    "işleyiş",
+    "işlem sırası"
+  ],
+  "proses": [
+    "süreç",
+    "işleyiş"
+  ],
+  "strateji": [
+    "izlem",
+    "yol haritası",
+    "yaklaşım"
+  ],
+  "vizyon": [
+    "uzun vadeli hedef",
+    "gelecek tasarımı"
+  ],
+  "misyon": [
+    "görev",
+    "amaç"
+  ],
+  "inovasyon": [
+    "yenilik",
+    "yenilikçilik"
+  ],
+  "sinerji": [
+    "uyumlu güç birliği",
+    "birlikte etki"
+  ],
+  "revize": [
+    "gözden geçirmek",
+    "yeniden düzenlemek"
+  ],
+  "revizyon": [
+    "gözden geçirme",
+    "yeniden düzenleme"
+  ],
+  "dashboard": [
+    "gösterge paneli",
+    "izleme paneli"
+  ],
+  "panel": [
+    "ekran",
+    "gösterge paneli"
+  ],
+  "modül": [
+    "birim",
+    "bileşen"
+  ],
+  "parametre": [
+    "değişken",
+    "ayar değeri"
+  ],
+  "konfigürasyon": [
+    "yapılandırma",
+    "ayarlar"
+  ],
+  "setup": [
+    "kurulum",
+    "ayar"
+  ],
+  "deploy": [
+    "yayına almak",
+    "çalışır hâle getirmek"
+  ],
+  "deployment": [
+    "yayınlama",
+    "kurulum"
+  ],
+  "framework": [
+    "çatı",
+    "altyapı çerçevesi"
+  ],
+  "library": [
+    "kütüphane"
+  ],
+  "backend": [
+    "arka uç",
+    "sunucu tarafı"
+  ],
+  "frontend": [
+    "ön yüz",
+    "istemci tarafı"
+  ],
+  "database": [
+    "veritabanı"
+  ],
+  "cloud": [
+    "bulut"
+  ],
+  "hosting": [
+    "barındırma"
+  ],
+  "domain": [
+    "alan adı"
+  ],
+  "authentication": [
+    "kimlik doğrulama"
+  ],
+  "authorization": [
+    "yetkilendirme"
+  ],
+  "token": [
+    "jeton",
+    "erişim anahtarı"
+  ],
+  "session": [
+    "oturum"
+  ],
+  "cache": [
+    "önbellek"
+  ],
+  "bug": [
+    "hata",
+    "yazılım hatası"
+  ],
+  "issue": [
+    "sorun",
+    "kayıtlı sorun"
+  ],
+  "fix": [
+    "düzeltme",
+    "onarım"
+  ],
+  "patch": [
+    "yama"
+  ],
+  "hotfix": [
+    "acil düzeltme"
+  ],
+  "refactor": [
+    "yeniden düzenlemek",
+    "iyileştirmek (kod)"
+  ],
+  "debug": [
+    "hata ayıklamak"
+  ],
+  "log": [
+    "kayıt",
+    "günlük"
+  ],
+  "simülasyon": [
+    "benzetim"
+  ],
+  "senaryo": [
+    "durum örneği",
+    "kurgulama"
+  ],
+  "metodoloji": [
+    "yöntem bilimi",
+    "yöntemler bütünü"
+  ],
+  "metod": [
+    "yöntem"
+  ],
+  "benchmark": [
+    "karşılaştırma ölçümü",
+    "kıyas ölçümü"
+  ],
+  "prototype": [
+    "ön örnek",
+    "taslak örnek"
+  ],
+  "prototip": [
+    "ön örnek",
+    "taslak örnek"
+  ],
+  "Optimize": [
+    "eniyilemek",
+    "iyileştirmek",
+    "en uygun hâle getirmek"
+  ],
+  "optimizeality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizeation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizeations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizeed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizeer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizeers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizees": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizeing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizeization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizeizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizeizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizement": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizetion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizetions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Optimizasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizasyonality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizasyonation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizasyonations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizasyoned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizasyoner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizasyoners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizasyones": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizasyoning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizasyonization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizasyonizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizasyonizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizasyonment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizasyons": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizasyontion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "optimizasyontions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Performans": [
+    "başarım",
+    "verim"
+  ],
+  "performansality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "performansation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "performansations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "performansed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "performanser": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "performansers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "performanses": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "performansing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "performansization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "performansizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "performansizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "performansment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "performanss": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "performanstion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "performanstions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Platform": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "platformality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "platformation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "platformations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "platformed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "platformer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "platformers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "platformes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "platforming": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "platformization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "platformizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "platformizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "platformment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "platforms": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "platformtion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "platformtions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Implementasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "implementasyonality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "implementasyonation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "implementasyonations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "implementasyoned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "implementasyoner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "implementasyoners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "implementasyones": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "implementasyoning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "implementasyonization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "implementasyonizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "implementasyonizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "implementasyonment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "implementasyons": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "implementasyontion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "implementasyontions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Validasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "validasyonality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "validasyonation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "validasyonations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "validasyoned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "validasyoner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "validasyoners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "validasyones": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "validasyoning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "validasyonization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "validasyonizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "validasyonizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "validasyonment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "validasyons": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "validasyontion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "validasyontions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Verifikasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "verifikasyonality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "verifikasyonation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "verifikasyonations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "verifikasyoned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "verifikasyoner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "verifikasyoners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "verifikasyones": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "verifikasyoning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "verifikasyonization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "verifikasyonizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "verifikasyonizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "verifikasyonment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "verifikasyons": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "verifikasyontion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "verifikasyontions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Entegre": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegreality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegreation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegreations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegreed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegreer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegreers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrees": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegreing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegreization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegreizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegreizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrement": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegres": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegretion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegretions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Entegrasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrasyonality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrasyonation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrasyonations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrasyoned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrasyoner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrasyoners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrasyones": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrasyoning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrasyonization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrasyonizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrasyonizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrasyonment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrasyons": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrasyontion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "entegrasyontions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Konsept": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konseptality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konseptation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konseptations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konsepted": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konsepter": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konsepters": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konseptes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konsepting": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konseptization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konseptizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konseptizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konseptment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konsepts": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konsepttion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konsepttions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Analiz": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "analizality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "analization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "analizations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "analized": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "analizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "analizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "analizes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "analizing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "analizization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "analizizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "analizizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "analizment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "analizs": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "analiztion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "analiztions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Feedback": [
+    "geri bildirim",
+    "dönüt"
+  ],
+  "feedbackality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "feedbackation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "feedbackations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "feedbacked": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "feedbacker": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "feedbackers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "feedbackes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "feedbacking": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "feedbackization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "feedbackizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "feedbackizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "feedbackment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "feedbacks": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "feedbacktion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "feedbacktions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Update": [
+    "güncelleme",
+    "yenileme"
+  ],
+  "updateality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "updateation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "updateations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "updateed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "updateer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "updateers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "updatees": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "updateing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "updateization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "updateizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "updateizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "updatement": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "updates": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "updatetion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "updatetions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Download": [
+    "indirme"
+  ],
+  "downloadality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "downloadation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "downloadations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "downloaded": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "downloader": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "downloaders": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "downloades": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "downloading": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "downloadization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "downloadizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "downloadizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "downloadment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "downloads": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "downloadtion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "downloadtions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Upload": [
+    "yükleme",
+    "karşıya yükleme"
+  ],
+  "uploadality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "uploadation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "uploadations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "uploaded": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "uploader": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "uploaders": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "uploades": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "uploading": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "uploadization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "uploadizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "uploadizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "uploadment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "uploads": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "uploadtion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "uploadtions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Online": [
+    "çevrim içi"
+  ],
+  "onlineality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "onlineation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "onlineations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "onlineed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "onlineer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "onlineers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "onlinees": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "onlineing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "onlineization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "onlineizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "onlineizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "onlinement": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "onlines": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "onlinetion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "onlinetions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Offline": [
+    "çevrim dışı"
+  ],
+  "offlineality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "offlineation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "offlineations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "offlineed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "offlineer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "offlineers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "offlinees": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "offlineing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "offlineization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "offlineizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "offlineizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "offlinement": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "offlines": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "offlinetion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "offlinetions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Proje": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proje": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "projeality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "projeation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "projeations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "projeed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "projeer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "projeers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "projees": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "projeing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "projeization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "projeizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "projeizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "projement": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "projes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "projetion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "projetions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Proses": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "prosesality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "prosesation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "prosesations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "prosesed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proseser": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "prosesers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proseses": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "prosesing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "prosesization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "prosesizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "prosesizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "prosesment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "prosess": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "prosestion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "prosestions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Proaktif": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktif": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktifality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktifation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktifations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktifed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktifer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktifers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktifes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktifing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktifization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktifizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktifizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktifment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktifs": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktiftion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "proaktiftions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Reaktif": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktif": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktifality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktifation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktifations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktifed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktifer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktifers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktifes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktifing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktifization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktifizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktifizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktifment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktifs": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktiftion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "reaktiftions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Strateji": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "stratejiality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "stratejiation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "stratejiations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "stratejied": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "stratejier": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "stratejiers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "stratejies": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "stratejiing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "stratejiization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "stratejiizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "stratejiizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "stratejiment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "stratejis": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "stratejition": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "stratejitions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Vizyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "vizyonality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "vizyonation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "vizyonations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "vizyoned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "vizyoner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "vizyoners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "vizyones": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "vizyoning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "vizyonization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "vizyonizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "vizyonizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "vizyonment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "vizyons": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "vizyontion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "vizyontions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Misyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "misyonality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "misyonation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "misyonations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "misyoned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "misyoner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "misyoners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "misyones": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "misyoning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "misyonization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "misyonizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "misyonizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "misyonment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "misyons": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "misyontion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "misyontions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Inovasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "inovasyonality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "inovasyonation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "inovasyonations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "inovasyoned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "inovasyoner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "inovasyoners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "inovasyones": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "inovasyoning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "inovasyonization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "inovasyonizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "inovasyonizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "inovasyonment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "inovasyons": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "inovasyontion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "inovasyontions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Innovasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyonality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyonation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyonations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyoned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyoner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyoners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyones": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyoning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyonization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyonizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyonizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyonment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyons": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyontion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "innovasyontions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Sinerji": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sinerjiality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sinerjiation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sinerjiations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sinerjied": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sinerjier": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sinerjiers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sinerjies": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sinerjiing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sinerjiization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sinerjiizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sinerjiizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sinerjiment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sinerjis": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sinerjition": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sinerjitions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Kreatif": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatif": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatifality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatifation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatifations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatifed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatifer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatifers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatifes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatifing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatifization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatifizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatifizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatifment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatifs": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatiftion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreatiftions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Kreativite": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativite": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativiteality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativiteation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativiteations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativiteed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativiteer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativiteers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativitees": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativiteing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativiteization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativiteizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativiteizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativitement": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativites": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativitetion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "kreativitetions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Revize": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizeality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizeation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizeations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizeed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizeer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizeers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizees": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizeing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizeization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizeizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizeizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizement": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizetion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizetions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Revizyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizyonality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizyonation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizyonations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizyoned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizyoner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizyoners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizyones": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizyoning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizyonization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizyonizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizyonizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizyonment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizyons": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizyontion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "revizyontions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Asistan": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistan": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistanality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistanation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistanations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistaned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistaner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistaners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistanes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistaning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistanization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistanizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistanizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistanment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistans": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistantion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "asistantions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Dashboard": [
+    "gösterge paneli"
+  ],
+  "dashboardality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "dashboardation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "dashboardations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "dashboarded": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "dashboarder": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "dashboarders": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "dashboardes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "dashboarding": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "dashboardization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "dashboardizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "dashboardizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "dashboardment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "dashboards": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "dashboardtion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "dashboardtions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Panel": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "panelality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "panelation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "panelations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "paneled": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "paneler": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "panelers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "paneles": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "paneling": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "panelization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "panelizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "panelizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "panelment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "panels": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "paneltion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "paneltions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "modüler": [
+    "(Türkçe: dönüştürme yok)"
+  ],
+  "Parametre": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "parametreality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "parametreation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "parametreations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "parametreed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "parametreer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "parametreers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "parametrees": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "parametreing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "parametreization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "parametreizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "parametreizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "parametrement": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "parametres": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "parametretion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "parametretions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "konfigüre": [
+    "(Türkçe: dönüştürme yok)"
+  ],
+  "Ayar": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayar": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayarality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayaration": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayarations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayared": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayarer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayarers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayares": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayaring": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayarization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayarizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayarizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayarment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayars": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayartion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "ayartions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Setup": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setupality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setupation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setupations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuped": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuper": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setupers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setupes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuping": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setupization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setupizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setupizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setupment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setups": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuption": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuptions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Setuplamak": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamak": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamakality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamakation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamakations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamaked": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamaker": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamakers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamakes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamaking": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamakization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamakizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamakizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamakment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamaks": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamaktion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "setuplamaktions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Initialize": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initialize": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializeality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializeation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializeations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializeed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializeer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializeers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializees": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializeing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializeization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializeizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializeizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializement": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializetion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializetions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Initializasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyonality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyonation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyonations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyoned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyoner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyoners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyones": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyoning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyonization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyonizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyonizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyonment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyons": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyontion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "initializasyontions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Deploy": [
+    "yayına almak",
+    "çalışır hâle getirmek"
+  ],
+  "deployality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deployation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deployations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deployed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deployer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deployers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deployes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploying": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deployization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deployizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deployizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploys": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploytion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploytions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Deployment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploymentality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploymentation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploymentations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploymented": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploymenter": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploymenters": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploymentes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploymenting": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploymentization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploymentizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploymentizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploymentment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deployments": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploymenttion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "deploymenttions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Release": [
+    "sürüm",
+    "yayın"
+  ],
+  "release": [
+    "sürüm",
+    "yayın"
+  ],
+  "releaseality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "releaseation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "releaseations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "releaseed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "releaseer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "releaseers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "releasees": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "releaseing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "releaseization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "releaseizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "releaseizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "releasement": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "releases": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "releasetion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "releasetions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Versiyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyoned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyoner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyoners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyones": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyoning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyons": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyontion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyontions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Versiyonlama": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlama": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlamaality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlamaation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlamaations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlamaed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlamaer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlamaers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlamaes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlamaing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlamaization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlamaizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlamaizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlamament": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlamas": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlamation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "versiyonlamations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Planlama": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlama": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlamaality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlamaation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlamaations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlamaed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlamaer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlamaers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlamaes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlamaing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlamaization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlamaizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlamaizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlamament": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlamas": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlamation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "planlamations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Takvim": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takvim": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takvimality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takvimation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takvimations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takvimed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takvimer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takvimers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takvimes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takviming": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takvimization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takvimizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takvimizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takvimment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takvims": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takvimtion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "takvimtions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Koordinasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyonality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyonation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyonations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyoned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyoner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyoners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyones": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyoning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyonization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyonizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyonizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyonment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyons": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyontion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinasyontions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "koordinatör": [
+    "(Türkçe: dönüştürme yok)"
+  ],
+  "Organizasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyonality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyonation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyonations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyoned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyoner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyoners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyones": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyoning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyonization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyonizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyonizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyonment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyons": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyontion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizasyontions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Organize": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organize": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizeality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizeation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizeations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizeed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizeer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizeers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizees": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizeing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizeization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizeizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizeizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizement": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizetion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "organizetions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Operasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyon": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyoned": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyoner": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyoners": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyones": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyoning": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyons": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyontion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyontions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Operasyonel": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonel": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonelality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonelation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonelations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyoneled": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyoneler": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonelers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyoneles": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyoneling": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonelization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonelizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonelizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonelment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyonels": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyoneltion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "operasyoneltions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Sistem": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistem": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistemality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistemation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistemations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistemed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistemer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistemers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistemes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sisteming": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistemization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistemizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistemizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistemment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistems": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistemtion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistemtions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Sistematik": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematik": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematikality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematikation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematikations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematiked": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematiker": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematikers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematikes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematiking": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematikization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematikizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematikizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematikment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematiks": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematiktion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "sistematiktions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Mekanizma": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizma": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizmaality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizmaation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizmaations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizmaed": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizmaer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizmaers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizmaes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizmaing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizmaization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizmaizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizmaizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizmament": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizmas": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizmation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "mekanizmations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Metod": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metoded": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metoder": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metoders": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodes": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metoding": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metods": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodtion": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodtions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "Metodoloji": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodolojiality": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodolojiation": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodolojiations": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodolojied": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodolojier": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodolojiers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodolojies": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodolojiing": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodolojiization": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodolojiizer": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodolojiizers": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodolojiment": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodolojis": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodolojition": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ],
+  "metodolojitions": [
+    "(Türkçe karşılık eklenecek)",
+    "(alternatif eklenecek)"
+  ]
+}
